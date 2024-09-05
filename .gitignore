@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivo de configuración de la publicación
+publish/
+
+# Archivos de caché de paquete NuGet
+*.nupkg
+*.snupkg
+
+# Archivos de configuración de aplicación
+appsettings.*.json
+
+# Archivos binarios y de compilación
+bin/
+obj/
